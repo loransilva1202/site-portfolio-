@@ -18,3 +18,7 @@ Nesse curso você vai dominar todo **git** e **github** _do zero ao profissional
 
 ### Rede Social:
 [Youtube](https://www.youtube.com/@Sujeitoprogramador)
+
+>Este é um blockquote, usando para destacar alguma area.
+>
+>Segunda area destacada
